@@ -84,23 +84,23 @@ Building 11 Room 106 - park in Lot G or F
 ## Presentation Decks
 
 [Patching Android
-Binaries](https://www.owasp.org/images/e/ee/OWASP_Orl_20181025_Droid_Apps_RE.pdf)
+Binaries](/www-pdf-archive/OWASP_Orl_20181025_Droid_Apps_RE.pdf)
 - Adrian Pastor Q4 2018
 
 [OpenSAMM & Maturity
-Programs](https://www.owasp.org/images/3/3d/OWASP_Orlando_2017_-_OpenSAMM.PDF)
+Programs](/www-pdf-archive/OWASP_Orlando_2017_-_OpenSAMM.PDF)
 - Adrian Pastor Q2 2017
 
 [Do AppSec Shortcuts
-Exist?](https://www.owasp.org/images/a/a3/AppSec_Shortcuts.pdf) - Greg
+Exist?](/www-pdf-archive/AppSec_Shortcuts.pdf) - Greg
 Wolford Q2 2016
 
 [XXE: The Anatomy of an XML
-Attack](https://www.owasp.org/images/3/30/XXE_-_The_Anatomy_of_an_XML_Attack_-_Mike_Felch.pdf)
+Attack](/www-pdf-archive/XXE_-_The_Anatomy_of_an_XML_Attack_-_Mike_Felch.pdf)
 - Mike Felch Q2 2016
 
 [iOS Automation
-Primitives](https://www.owasp.org/images/3/3f/Owasporlandoapril132016-160414185141.pdf)
+Primitives](/www-pdf-archive/Owasporlandoapril132016-160414185141.pdf)
 - Mikhail "Mike" Sosonkin Q2 2016
 
 [OWASP Top 10 with Code
@@ -933,6 +933,6 @@ Linkedin group at <http://goo.gl/BB9fu>
 
 ![Ucf_medcollege.png](Ucf_medcollege.png "Ucf_medcollege.png")
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:Florida](Category:Florida "wikilink")
-[Category:Orlando](Category:Orlando "wikilink")
+[Category:OWASP Chapter](Category:OWASP_Chapter )
+[Category:Florida](Category:Florida )
+[Category:Orlando](Category:Orlando )
