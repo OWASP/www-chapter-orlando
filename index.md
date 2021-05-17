@@ -2,6 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Orlando
+meetup: owasp-orlando
 tags: example-tag
 level: 0
 
