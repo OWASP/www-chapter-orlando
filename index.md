@@ -3,53 +3,62 @@
 layout: col-sidebar
 title: OWASP Orlando
 meetup: owasp-orlando
-tags: example-tag
+tags: orlando
 level: 0
-
 region: United States
-
 auto-migrated: 1
 
 ---
 
+## OWASP Orlando Chapter Meetings
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+We schedule our meetings on the [Orlando Meetup Group](https://www.meetup.com/OWASP-Orlando)
 
-{front matter for this file}
+{% include chapter_events.html group=page.meetup-group %}
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+## Chapter Information
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+OWASP Orlando is newly formed as of August 2011. The first meeting was held on October 19, 2011 and was designed largely as a social event to bring new members together. After this initial informal meeting we are continuing with quarterly meetings focused on content that attendees can
+apply within their own environments for minimal or no-cost to their organizations. We do not tolerate vendor-centric presentations but do
+encourage vendors to present as long as they can keep their marketing
+attempts to a minimum and focus on the underlying issues and technology.
+Typically we have 2 speakers with topics designed to meet the needs of
+the Builder, Breaker and Defender communities. As of April 2012 have
+continued to meet this commitment. Keep watching this space for
+announcements about upcoming events. If you are interested in being a
+speaker or taking a more active leadership role within the chapter,
+please contact the chapter leaders at the link above. Everyone is
+welcome to join us at our chapter meetings. We track membership based on
+participation at the mailing list linked on this page and this will be
+the primary means of communication for the chapter. We also have a
+Linkedin group at <http://goo.gl/BB9fu>
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+## Supporters
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+- [For information on becoming a supporter and associated benefits](https://owasp.org/membership/)
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
+**Organizational Supporters**
 
-```
-{info.md}
+![symantec1.jpg](symantec1.jpg "symantec1.jpg")
 
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
+-----
 
-{leaders.md}
+**Chapter Supporters**
 
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
+![cloudspace_logo.png](cloudspace_logo.png "cloudspace_logo.png")
 
--->
+-----
+
+**Single Meeting Supporters**
+
+![Securityinnovation.png](Securityinnovation.png
+"Securityinnovation.png") ![Fishnetlogo.png](Fishnetlogo.png
+"Fishnetlogo.png")
+
+-----
+
+**Academic Supporters**
+
+![Ucf_medcollege.png](Ucf_medcollege.png "Ucf_medcollege.png")
