@@ -932,7 +932,3 @@ Linkedin group at <http://goo.gl/BB9fu>
 **Academic Supporters**
 
 ![Ucf_medcollege.png](Ucf_medcollege.png "Ucf_medcollege.png")
-
-[Category:OWASP Chapter](Category:OWASP_Chapter )
-[Category:Florida](Category:Florida )
-[Category:Orlando](Category:Orlando )
