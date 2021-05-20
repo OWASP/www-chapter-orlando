@@ -1,9 +1,10 @@
 ---
-title: Past events
+title: PastEvents
+displaytext: Past Events
 layout:  null
 tab: true
-order: 1
-tags: past events
+order: 2
+tags: chapter-orlando
 ---
 
 
