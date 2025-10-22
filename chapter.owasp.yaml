@@ -1,0 +1,30 @@
+community:
+  - name: chapter-orlando
+    platform: slack
+    url: https://owasp.slack.com/archives/C0BBA9ALA
+currency: USD
+leaders:
+  - name: Tony Turner
+    email: tony.turner@owasp.org
+    github: tonylturner
+  - name: Lee Mangold
+    email: lee.mangold@owasp.org
+location:
+  country: USA
+  country_code: US
+  region: Florida
+  city: Orlando
+  postal_code: '32801'
+  latitude: 28.5421109
+  longitude: -81.3790304
+meetup_group: OWASP-Orlando
+name: OWASP Orlando
+repositories:
+  - name: www-chapter-orlando
+    url: https://github.com/OWASP/www-chapter-orlando
+    description: OWASP Foundation Web Repository
+tags:
+  - chapter-orlando
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-orlando
